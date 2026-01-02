@@ -12,12 +12,12 @@ This repository contains my complete learning journey through Python for Data An
 
 ##  Learning Goals
 
-- [ ] Master NumPy array programming and vectorized computation
-- [ ] Become proficient with pandas DataFrames
-- [ ] Handle real-world messy data effectively
-- [ ] Create effective data visualizations
-- [ ] Perform time series analysis
-- [ ] Build end-to-end data analysis projects
+- Master NumPy array programming and vectorized computation
+- Become proficient with pandas DataFrames
+- Handle real-world messy data effectively
+- Create effective data visualizations
+- Perform time series analysis
+- Build end-to-end data analysis projects
 
 ## 🛠️ Environment Setup
 ```bash
